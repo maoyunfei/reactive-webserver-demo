@@ -18,12 +18,12 @@ import java.util.Date;
 import java.util.stream.Stream;
 
 /**
- * Description
+ * Spring MVC 方式
  *
  * @author maoyunfei
  * @Date 2018/2/9
  */
-@RestController
+//@RestController
 @RequestMapping("/rest/employee")
 public class EmployeeController {
 
